@@ -1,2 +1,3 @@
-# Fundamentals-of-DA-Pratical-Assignments
-Fundamentals of Data analysis Pratical Assignments
+
+# Fundamentals of Data Analysis Pratical Assignment
+# An Analysis of Anscombe's quartet dataset 
