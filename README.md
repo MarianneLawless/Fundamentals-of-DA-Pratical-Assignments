@@ -12,7 +12,10 @@ First of all, I have created a Jupyter Notebook analysing the dataset
 
 There are four distinct tasks in which I carried out in my Jupyter Notebook, as follows
 
-An explanation to the background of the dataset - who createdit, when it was created, and any speculations I fond regardinghow it might       have been created.
+An explanation to the background of the dataset - who createdit, when it was created, and any speculations I found regarding how it might       have been created.
+
 I have plotted, the interesting aspects that I found about the dataset
+
 I have calculated the descriptive statistics of the variables in the dataset
+
 An explanation as to why, the dataset is interesting, making reference to the plots I have created and the calculations I have performed
