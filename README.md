@@ -2,7 +2,7 @@
 # Fundamentals of Data Analysis Pratical Assignment
 # An Analysis of Anscombe's quartet dataset 
 
-# The programming Language used to assist in writing code for this project is Python
+## The programming Language used to assist in writing code for this project is Python
 Anaconda download is a great way to install Python and all of the common Python libraries on your computer. I recommend installing version 3.6, 64-bit. https://www.python.org/.
 # Problem Statement
 # The following assignment concerns the Analysis of the well-known Anscombe's quartet dataset
